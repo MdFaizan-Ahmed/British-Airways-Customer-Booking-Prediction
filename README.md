@@ -18,9 +18,9 @@ The dataset `customer_booking.csv` contains 50,000 customer booking records with
 - **Top predictors:** Customer origin country, sales channel (mobile vs internet), add-on purchases
 
 ## Dependencies
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
+pandas<br>
+numpy<br>
+matplotlib<br>
+seaborn<br>
+scikit-learn<br>
+xgboost<br>
