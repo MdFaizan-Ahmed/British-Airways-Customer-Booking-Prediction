@@ -1,6 +1,6 @@
 # British Airways Customer Booking Prediction
 
-Predicting flight booking completion using customer booking data.
+Predicting flight booking completion using customer booking data. This is part of a Forage exercise.
 
 ## Dataset
 
