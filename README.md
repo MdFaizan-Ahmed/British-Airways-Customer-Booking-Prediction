@@ -4,7 +4,7 @@ Predicting whether a customer completes a flight booking, to support conversion-
 
 ## Problem
 
-Only ~15% of bookings are completed. A model that identifies high-probability customers lets marketing target the right segment, rather than discounting indiscriminately. The question isn't "can we predict completion" — it's "does this feature set carry enough signal to be useful, and if not, what's missing?"
+Only about 15% of bookings are completed. A model that identifies high-probability customers lets marketing target the right segment, rather than discounting indiscriminately. The question isn't "can we predict completion" — it's "does this feature set carry enough signal to be useful, and if not, what's missing?"
 
 ## Dataset
 
